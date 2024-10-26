@@ -1,7 +1,7 @@
 Gestor de Hoteles
 Gestor de Hoteles es una aplicación sencilla y eficiente diseñada para optimizar el proceso de gestión de reservas en hoteles. Esta herramienta ofrece una interfaz amigable que facilita la administración de reservas, permitiendo al personal de recepción gestionar cada operación de forma rápida y organizada.
 
-Funcionalidades principales
+Funcionalidades principales:
 1. Registrar nueva reserva
 Permite registrar una nueva reserva en el sistema de manera ágil y clara. Los datos solicitados incluyen:
 
