@@ -3,16 +3,16 @@ Gestor de Hoteles es una aplicación sencilla y eficiente diseñada para optimiz
 
 Funcionalidades principales:
 1. Registrar nueva reserva
-Permite registrar una nueva reserva en el sistema de manera ágil y clara. Los datos solicitados incluyen:
+  Permite registrar una nueva reserva en el sistema de manera ágil y clara. Los datos solicitados incluyen:
 
-Código de reserva
-Nombre del cliente
-Fecha de ingreso
-Fecha de salida
-Código de habitación
-Descripción de la habitación
-Precio de la habitación
-Total de la reserva
+    Código de reserva
+    Nombre del cliente
+    Fecha de ingreso
+    Fecha de salida
+    Código de habitación
+    Descripción de la habitación
+    Precio de la habitación
+    Total de la reserva
 
 2. Buscar reserva
 Facilita la búsqueda de reservas específicas ingresando el código de reserva, proporcionando así un acceso rápido a los detalles y estado de cualquier reservación hecha previamente.
